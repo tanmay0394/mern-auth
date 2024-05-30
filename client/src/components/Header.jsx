@@ -12,8 +12,9 @@ export const Header = () => {
         </div>
         {/* Title */}
         <Link to="/">
-          <h1 className="font-bold flex items-start">Authorization</h1>
+          <h1 className="font-bold">Authorization & Authentication</h1>
         </Link>
+
         {/* Navigation */}
         <ul className="flex gap-4">
           <li>
